@@ -18,7 +18,7 @@ You can set property called time-to-live for a key and write into a json file an
 Method 2-
 Create JSON object using Postman:-
 It should be POST request in this way : Use postman and pass the key value pair in body.
-`http://localhost:3000/create`
+`http://localhost:3000/submit`
 
 ```
 {
