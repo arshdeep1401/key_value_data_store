@@ -31,7 +31,7 @@ It should be POST request in this way : Use postman and pass the key value pair 
 
 ## Read API Call - 
 
-5.	Read all Records-
+6.	Read all Records-
 	` GET 'http://localhost:3000/read/all'`
 
 	Read a particular record using key
@@ -44,7 +44,7 @@ It should be POST request in this way : Use postman and pass the key value pair 
 
 ## Delete API Call - 
 
-6. Delete all Records-
+7. Delete all Records-
 	` GET 'http://localhost:3000/delete/all'`
 
 	Delete a particular record using key
